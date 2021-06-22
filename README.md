@@ -1,5 +1,6 @@
 # Robot arm 
 
+-----
 # About
 
 **Assembly of a robot arm based on given parts** 
